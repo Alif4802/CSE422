@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ## Author
 **Alif Khan**
 
-- **Email:** your-email@example.com
+- **Email:** 
 - **LinkedIn:** [Your LinkedIn Profile]()
 
 Feel free to connect for discussions, collaborations, or feedback!
